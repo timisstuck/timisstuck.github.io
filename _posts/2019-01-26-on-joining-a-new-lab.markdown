@@ -5,8 +5,6 @@ date:   2019-01-26 13:25:03 -0400
 categories:
 ---
 
-
-
 <p>Grad students interested in an academic postdoc are united by one thing, once they reach the end of their PhD: freaking out. Approaching the end of my PhD, far too many things were happening at once. Raising my head from the minutiae of my project, I felt swept away by wave after wave of career-defining decisions. At no point did I feel like I was doing the postdoc search “correctly.” Rather, it felt like a hasty and confusing tour through options that varied only in their relative inadequacy.</p>
 
 <p>Conversations with my PhD mentor about postdocs consisted of her waiting expectantly for me to share my broader goals and potential postdoc labs. After I wriggled in silence and eventually suggested a couple sub-fields I was interested in, she listed a few big names but waited for me to narrow my search. I was doubly unprepared: I didn’t quite know what field I wanted to end up in, and I foolishly expected my mentor to steer the conversation about postdoc labs. Meanwhile, I was preparing my manuscript as fast as I possibly could and similarly racing to schedule my thesis defense. It felt like I was flooring the gas pedal on my PhD while slamming the brakes on the big decision to follow.
