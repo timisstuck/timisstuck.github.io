@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "How to enjoy feeling stupid after you switch fields"
-date:   2019-02-25 13:25:03 -0400
+layout:         post
+title:          How to enjoy feeling stupid after you switch fields
+date:           2019-02-25 13:25:03 -0400
+summary:        Thoughts and advice on switching academic fields
 categories:
 ---
 

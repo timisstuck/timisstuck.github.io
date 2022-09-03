@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "How to ignore good advice and join a new lab"
-date:   2019-01-26 13:25:03 -0400
+layout:         post
+title:          How to ignore good advice and join a new lab
+date:           2019-01-26 13:25:03 -0400
+summary:        Thoughts and advice on joining a new lab
 categories:
 ---
 
