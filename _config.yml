@@ -3,7 +3,7 @@ title:       Tim Fessenden
 email:       tim.fessenden@gmail.com
 author:      Tim Fessenden
 description: "The personal website for Tim Fessenden including writing, teaching, and research."
-baseurl:     ""
+baseurl:     "/timisstuck"
 url:         "localhost:4000/timfessenden/"
 date_format: "%b %-d, %Y"
 header_pages:
